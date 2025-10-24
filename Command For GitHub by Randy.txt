@@ -1,0 +1,16 @@
+Perintah untuk aplikasi github
+[buat akun git]
+1. git config --global user.name "(username yg kalian buat pd github)"
+2. git config --global user.email "(emailkalian@gmail.com)"
+3. git config --list 
+
+Hapus Credensial Windows[apabila ada user sebelumnya]
+
+4. git clone https://github.com/blackbolt-34/randypushink.git (link ini dapat di salin dari repository yg-
+telah kalian buat di GitHub)
+5. [add file] pilih file yg akan diupload
+
+6. git add .
+7. git commit -m "server django test"
+8. git push origin main
+9. git log
